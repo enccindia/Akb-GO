@@ -1,0 +1,5 @@
+{
+  "name": "Akb GO",
+  "description": "An online search engine powered by Google's Gemini API with real-time search grounding, providing up-to-date answers and sources.",
+  "requestFramePermissions": []
+}
